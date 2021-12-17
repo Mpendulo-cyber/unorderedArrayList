@@ -8,6 +8,7 @@ using namespace std;
 List::List(void)
 {size = 0;}
 
+csc311 is fun
 
 List::~List(void)
 {
